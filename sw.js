@@ -1,4 +1,4 @@
-const CACHE = 'diabetetrack-v6';
+const CACHE = 'diabetetrack-v7';
 const ASSETS = [
   './',
   './index.html',
